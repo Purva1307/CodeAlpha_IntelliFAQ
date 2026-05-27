@@ -1,0 +1,232 @@
+question,answer
+What is AI?, AI stands for Artificial Intelligence and enables machines to simulate human intelligence.
+What are the types of AI? , The main types are narrow AI general AI and super AI.
+What is generative AI?,Generative AI creates content such as text images audio or code.
+What is Python?,	Python is a high-level programming language.
+What is a list in Python?,	A list stores multiple items in a single variable.
+What is a dictionary in Python?,	A dictionary stores key-value pairs.
+What is Machine Learning?,	Machine Learning enables systems to learn from data.
+What is supervised learning?	,Supervised learning trains using labeled data.
+What is unsupervised learning?,	Unsupervised learning finds patterns in unlabeled data.
+What is NLP?,	NLP stands for Natural Language Processing.
+What is tokenization?,	Tokenization splits text into smaller pieces.
+What is stemming?,	Stemming reduces words to root forms.
+What is Data Science?,	Data Science extracts insights from data.
+What is data cleaning?,	Data cleaning removes errors and inconsistencies.
+What is data visualization?,	Data visualization presents data graphically.
+What is a variable?,	A variable stores data.
+What is a loop?,	A loop repeats a block of code.
+What is a function?,	A function is reusable code performing a specific task.
+What is a chatbot?,	A chatbot is software designed to simulate conversation.
+How do chatbots work?,	Chatbots use rules or AI models to generate responses.
+What is an FAQ chatbot?,	An FAQ chatbot answers predefined questions.
+What are the advantages of AI topic 1?,	AI advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of AI topic 2?,	AI advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of AI topic 3?,	AI advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of AI topic 1?,	AI applications include practical understanding real-world usage and foundational concepts.
+What are the applications of AI topic 2?,	AI applications include practical understanding real-world usage and foundational concepts.
+What are the applications of AI topic 3?,	AI applications include practical understanding real-world usage and foundational concepts.
+What are the importance of AI topic 1?,	AI importance include practical understanding real-world usage and foundational concepts.
+What are the importance of AI topic 2?,	AI importance include practical understanding real-world usage and foundational concepts.
+What are the importance of AI topic 3?,	AI importance include practical understanding real-world usage and foundational concepts.
+What are the examples of AI topic 1?,	AI examples include practical understanding real-world usage and foundational concepts.
+What are the examples of AI topic 2?,	AI examples include practical understanding real-world usage and foundational concepts.
+What are the examples of AI topic 3?,	AI examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of AI topic 1?,	AI benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of AI topic 2?,	AI benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of AI topic 3?,	AI benefits include practical understanding real-world usage and foundational concepts.
+What are the future of AI topic 1?,	AI future include practical understanding real-world usage and foundational concepts.
+What are the future of AI topic 2?,	AI future include practical understanding real-world usage and foundational concepts.
+What are the future of AI topic 3?,	AI future include practical understanding real-world usage and foundational concepts.
+What are the limitations of AI topic 1?,	AI limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of AI topic 2?	,AI limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of AI topic 3?,	AI limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of AI topic 1?,	AI working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of AI topic 2?,	AI working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of AI topic 3?,	AI working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of AI topic 1?,	AI use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of AI topic 2?,	AI use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of AI topic 3?,	AI use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of AI topic 1?,	AI challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of AI topic 2?,	AI challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of AI topic 3?,	AI challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of Python topic 1?,	Python advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Python topic 2?,	Python advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Python topic 3?,	Python advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of Python topic 1?,	Python applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Python topic 2?,	Python applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Python topic 3?,	Python applications include practical understanding real-world usage and foundational concepts.
+What are the importance of Python topic 1?,	Python importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Python topic 2?,	Python importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Python topic 3?,	Python importance include practical understanding real-world usage and foundational concepts.
+What are the examples of Python topic 1?,	Python examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Python topic 2?,	Python examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Python topic 3?,	Python examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of Python topic 1?,	Python benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Python topic 2?,	Python benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Python topic 3?,	Python benefits include practical understanding real-world usage and foundational concepts.
+What are the future of Python topic 1?,	Python future include practical understanding real-world usage and foundational concepts.
+What are the future of Python topic 2?,	Python future include practical understanding real-world usage and foundational concepts.
+What are the future of Python topic 3?,	Python future include practical understanding real-world usage and foundational concepts.
+What are the limitations of Python topic 1?,	Python limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Python topic 2?,	Python limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Python topic 3?,	Python limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of Python topic 1?,	Python working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Python topic 2?,	Python working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Python topic 3?,	Python working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of Python topic 1?,	Python use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Python topic 2?,	Python use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Python topic 3?,	Python use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of Python topic 1?,	Python challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Python topic 2?,	Python challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Python topic 3?,	Python challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of ML topic 1?,	ML advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of ML topic 2?,	ML advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of ML topic 3?,	ML advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of ML topic 1?,	ML applications include practical understanding real-world usage and foundational concepts.
+What are the applications of ML topic 2?,	ML applications include practical understanding real-world usage and foundational concepts.
+What are the applications of ML topic 3?,	ML applications include practical understanding real-world usage and foundational concepts.
+What are the importance of ML topic 1?,	ML importance include practical understanding real-world usage and foundational concepts.
+What are the importance of ML topic 2?,	ML importance include practical understanding real-world usage and foundational concepts.
+What are the importance of ML topic 3?,	ML importance include practical understanding real-world usage and foundational concepts.
+What are the examples of ML topic 1?,	ML examples include practical understanding real-world usage and foundational concepts.
+What are the examples of ML topic 2?,	ML examples include practical understanding real-world usage and foundational concepts.
+What are the examples of ML topic 3?,	ML examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of ML topic 1?,	ML benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of ML topic 2?,	ML benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of ML topic 3?,	ML benefits include practical understanding real-world usage and foundational concepts.
+What are the future of ML topic 1?,	ML future include practical understanding real-world usage and foundational concepts.
+What are the future of ML topic 2?,	ML future include practical understanding real-world usage and foundational concepts.
+What are the future of ML topic 3?,	ML future include practical understanding real-world usage and foundational concepts.
+What are the limitations of ML topic 1?,	ML limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of ML topic 2?	,ML limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of ML topic 3?,	ML limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of ML topic 1?,	ML working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of ML topic 2?,	ML working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of ML topic 3?,	ML working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of ML topic 1?,	ML use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of ML topic 2?,	ML use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of ML topic 3?,	ML use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of ML topic 1?,	ML challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of ML topic 2?,	ML challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of ML topic 3?,	ML challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of NLP topic 1?,	NLP advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of NLP topic 2?,	NLP advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of NLP topic 3?,	NLP advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of NLP topic 1?,	NLP applications include practical understanding real-world usage and foundational concepts.
+What are the applications of NLP topic 2?,	NLP applications include practical understanding real-world usage and foundational concepts.
+What are the applications of NLP topic 3?,	NLP applications include practical understanding real-world usage and foundational concepts.
+What are the importance of NLP topic 1?,	NLP importance include practical understanding real-world usage and foundational concepts.
+What are the importance of NLP topic 2?	,NLP importance include practical understanding real-world usage and foundational concepts.
+What are the importance of NLP topic 3?,	NLP importance include practical understanding real-world usage and foundational concepts.
+What are the examples of NLP topic 1?,	NLP examples include practical understanding real-world usage and foundational concepts.
+What are the examples of NLP topic 2?,	NLP examples include practical understanding real-world usage and foundational concepts.
+What are the examples of NLP topic 3?,	NLP examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of NLP topic 1?,	NLP benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of NLP topic 2?,	NLP benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of NLP topic 3?,	NLP benefits include practical understanding real-world usage and foundational concepts.
+What are the future of NLP topic 1?,	NLP future include practical understanding real-world usage and foundational concepts.
+What are the future of NLP topic 2?,	NLP future include practical understanding real-world usage and foundational concepts.
+What are the future of NLP topic 3?,	NLP future include practical understanding real-world usage and foundational concepts.
+What are the limitations of NLP topic 1?,	NLP limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of NLP topic 2?,	NLP limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of NLP topic 3?,	NLP limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of NLP topic 1?,	NLP working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of NLP topic 2?,	NLP working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of NLP topic 3?,	NLP working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of NLP topic 1?,	NLP use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of NLP topic 2?,	NLP use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of NLP topic 3?,	NLP use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of NLP topic 1?,	NLP challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of NLP topic 2?,	NLP challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of NLP topic 3?,	NLP challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of Data Science topic 1?,	Data Science advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Data Science topic 2?,	Data Science advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Data Science topic 3?,	Data Science advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of Data Science topic 1?,	Data Science applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Data Science topic 2?,	Data Science applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Data Science topic 3?,	Data Science applications include practical understanding real-world usage and foundational concepts.
+What are the importance of Data Science topic 1?,	Data Science importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Data Science topic 2?,	Data Science importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Data Science topic 3?,	Data Science importance include practical understanding real-world usage and foundational concepts.
+What are the examples of Data Science topic 1?,	Data Science examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Data Science topic 2?,	Data Science examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Data Science topic 3?,	Data Science examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of Data Science topic 1?,	Data Science benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Data Science topic 2?,	Data Science benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Data Science topic 3?,	Data Science benefits include practical understanding real-world usage and foundational concepts.
+What are the future of Data Science topic 1?,	Data Science future include practical understanding real-world usage and foundational concepts.
+What are the future of Data Science topic 2?,	Data Science future include practical understanding real-world usage and foundational concepts.
+What are the future of Data Science topic 3?,	Data Science future include practical understanding real-world usage and foundational concepts.
+What are the limitations of Data Science topic 1?,	Data Science limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Data Science topic 2?,	Data Science limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Data Science topic 3?,	Data Science limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of Data Science topic 1?,	Data Science working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Data Science topic 2?,	Data Science working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Data Science topic 3?,	Data Science working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of Data Science topic 1?,	Data Science use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Data Science topic 2?,	Data Science use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Data Science topic 3?,	Data Science use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of Data Science topic 1?,	Data Science challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Data Science topic 2?,	Data Science challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Data Science topic 3?,	Data Science challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of Programming topic 1?,	Programming advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Programming topic 2?,	Programming advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Programming topic 3?	,Programming advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of Programming topic 1?,	Programming applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Programming topic 2?,	Programming applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Programming topic 3?,	Programming applications include practical understanding real-world usage and foundational concepts.
+What are the importance of Programming topic 1?,	Programming importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Programming topic 2?,	Programming importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Programming topic 3?,	Programming importance include practical understanding real-world usage and foundational concepts.
+What are the examples of Programming topic 1?,	Programming examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Programming topic 2?,	Programming examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Programming topic 3?,	Programming examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of Programming topic 1?,	Programming benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Programming topic 2?,	Programming benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Programming topic 3?,	Programming benefits include practical understanding real-world usage and foundational concepts.
+What are the future of Programming topic 1?,	Programming future include practical understanding real-world usage and foundational concepts.
+What are the future of Programming topic 2?,	Programming future include practical understanding real-world usage and foundational concepts.
+What are the future of Programming topic 3?,	Programming future include practical understanding real-world usage and foundational concepts.
+What are the limitations of Programming topic 1?,	Programming limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Programming topic 2?,	Programming limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Programming topic 3?,	Programming limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of Programming topic 1?,	Programming working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Programming topic 2?,	Programming working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Programming topic 3?,	Programming working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of Programming topic 1?,	Programming use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Programming topic 2?,	Programming use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Programming topic 3?,	Programming use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of Programming topic 1?,	Programming challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Programming topic 2?	,Programming challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Programming topic 3?	,Programming challenges include practical understanding real-world usage and foundational concepts.
+What are the advantages of Chatbot topic 1?,	Chatbot advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Chatbot topic 2?,	Chatbot advantages include practical understanding real-world usage and foundational concepts.
+What are the advantages of Chatbot topic 3?,	Chatbot advantages include practical understanding real-world usage and foundational concepts.
+What are the applications of Chatbot topic 1?,	Chatbot applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Chatbot topic 2?,	Chatbot applications include practical understanding real-world usage and foundational concepts.
+What are the applications of Chatbot topic 3?,	Chatbot applications include practical understanding real-world usage and foundational concepts.
+What are the importance of Chatbot topic 1?,	Chatbot importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Chatbot topic 2?,	Chatbot importance include practical understanding real-world usage and foundational concepts.
+What are the importance of Chatbot topic 3?,	Chatbot importance include practical understanding real-world usage and foundational concepts.
+What are the examples of Chatbot topic 1?,	Chatbot examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Chatbot topic 2?,	Chatbot examples include practical understanding real-world usage and foundational concepts.
+What are the examples of Chatbot topic 3?,	Chatbot examples include practical understanding real-world usage and foundational concepts.
+What are the benefits of Chatbot topic 1?,	Chatbot benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Chatbot topic 2?,	Chatbot benefits include practical understanding real-world usage and foundational concepts.
+What are the benefits of Chatbot topic 3?,	Chatbot benefits include practical understanding real-world usage and foundational concepts.
+What are the future of Chatbot topic 1?,	Chatbot future include practical understanding real-world usage and foundational concepts.
+What are the future of Chatbot topic 2?,	Chatbot future include practical understanding real-world usage and foundational concepts.
+What are the future of Chatbot topic 3?,	Chatbot future include practical understanding real-world usage and foundational concepts.
+What are the limitations of Chatbot topic 1?,	Chatbot limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Chatbot topic 2?,	Chatbot limitations include practical understanding real-world usage and foundational concepts.
+What are the limitations of Chatbot topic 3?,	Chatbot limitations include practical understanding real-world usage and foundational concepts.
+What are the working principle of Chatbot topic 1?,	Chatbot working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Chatbot topic 2?,	Chatbot working principle include practical understanding real-world usage and foundational concepts.
+What are the working principle of Chatbot topic 3?,	Chatbot working principle include practical understanding real-world usage and foundational concepts.
+What are the use cases of Chatbot topic 1?,	Chatbot use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Chatbot topic 2?,	Chatbot use cases include practical understanding real-world usage and foundational concepts.
+What are the use cases of Chatbot topic 3?,	Chatbot use cases include practical understanding real-world usage and foundational concepts.
+What are the challenges of Chatbot topic 1?,	Chatbot challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Chatbot topic 2?,	Chatbot challenges include practical understanding real-world usage and foundational concepts.
+What are the challenges of Chatbot topic 3?,	Chatbot challenges include practical understanding real-world usage and foundational concepts.
